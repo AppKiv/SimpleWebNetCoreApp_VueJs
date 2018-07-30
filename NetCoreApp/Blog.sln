@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog", "Blog\Blog.csproj", "{E6441816-F6FA-49FA-935D-834A26FA55F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Repository", "Blog.Repository\Blog.Repository.csproj", "{08C638FB-25B1-43A6-96EA-77A5D9BFAEA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Model", "Blog.Model\Blog.Model.csproj", "{249F8ABA-3332-4536-80A0-85B17D8B59C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6441816-F6FA-49FA-935D-834A26FA55F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6441816-F6FA-49FA-935D-834A26FA55F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6441816-F6FA-49FA-935D-834A26FA55F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6441816-F6FA-49FA-935D-834A26FA55F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C638FB-25B1-43A6-96EA-77A5D9BFAEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C638FB-25B1-43A6-96EA-77A5D9BFAEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C638FB-25B1-43A6-96EA-77A5D9BFAEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C638FB-25B1-43A6-96EA-77A5D9BFAEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249F8ABA-3332-4536-80A0-85B17D8B59C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249F8ABA-3332-4536-80A0-85B17D8B59C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249F8ABA-3332-4536-80A0-85B17D8B59C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249F8ABA-3332-4536-80A0-85B17D8B59C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5A552C-8267-49C6-BEA6-A389810A1974}
+	EndGlobalSection
+EndGlobal

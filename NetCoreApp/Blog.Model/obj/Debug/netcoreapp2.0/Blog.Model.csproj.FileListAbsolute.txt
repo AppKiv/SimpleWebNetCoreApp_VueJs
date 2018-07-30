@@ -1,0 +1,8 @@
+D:\Personal\Blog\Blog.Model\bin\Debug\netcoreapp2.0\Blog.Model.deps.json
+D:\Personal\Blog\Blog.Model\bin\Debug\netcoreapp2.0\Blog.Model.dll
+D:\Personal\Blog\Blog.Model\bin\Debug\netcoreapp2.0\Blog.Model.pdb
+D:\Personal\Blog\Blog.Model\obj\Debug\netcoreapp2.0\Blog.Model.csproj.CoreCompileInputs.cache
+D:\Personal\Blog\Blog.Model\obj\Debug\netcoreapp2.0\Blog.Model.AssemblyInfoInputs.cache
+D:\Personal\Blog\Blog.Model\obj\Debug\netcoreapp2.0\Blog.Model.AssemblyInfo.cs
+D:\Personal\Blog\Blog.Model\obj\Debug\netcoreapp2.0\Blog.Model.dll
+D:\Personal\Blog\Blog.Model\obj\Debug\netcoreapp2.0\Blog.Model.pdb

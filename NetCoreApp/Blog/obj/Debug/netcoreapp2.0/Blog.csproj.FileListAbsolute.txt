@@ -1,0 +1,16 @@
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.Model.dll
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.Repository.dll
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.Model.pdb
+D:\Personal\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.Repository.pdb
+D:\Personal\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csprojAssemblyReference.cache
+D:\Personal\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+D:\Personal\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+D:\Personal\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+D:\Personal\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CopyComplete
+D:\Personal\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+D:\Personal\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.pdb
